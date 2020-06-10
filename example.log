@@ -1,0 +1,18 @@
+DEBUG:Starting new HTTPS connection (1): github.com:443
+DEBUG:https://github.com:443 "GET /MachineLearningIsEasy/python_lesson_8/blob/master/decorators_example.py HTTP/1.1" 200 None
+DEBUG --- Starting new HTTPS connection (1): github.com:443
+DEBUG --- https://github.com:443 "GET /MachineLearningIsEasy/python_lesson_8/blob/master/decorators_example.py HTTP/1.1" 200 None
+2020-06-10 20:40:45,447 --- DEBUG --- Starting new HTTPS connection (1): github.com:443
+2020-06-10 20:40:46,196 --- DEBUG --- https://github.com:443 "GET /MachineLearningIsEasy/python_lesson_8/blob/master/decorators_example.py HTTP/1.1" 200 None
+06/10/2020 08:41:33 PM --- DEBUG --- Starting new HTTPS connection (1): github.com:443
+06/10/2020 08:41:34 PM --- DEBUG --- https://github.com:443 "GET /MachineLearningIsEasy/python_lesson_8/blob/master/decorators_example.py HTTP/1.1" 200 None
+06/10/2020 08:48:04 PM --- DEBUG --- Starting new HTTPS connection (1): github.com:443
+06/10/2020 08:48:05 PM --- DEBUG --- https://github.com:443 "GET /MachineLearningIsEasy/python_lesson_8/blob/master/decorators_example.py HTTP/1.1" 200 None
+06/10/2020 08:49:29 PM --- DEBUG --- Starting new HTTPS connection (1): github.com:443
+06/10/2020 08:49:30 PM --- DEBUG --- https://github.com:443 "GET /MachineLearningIsEasy/python_lesson_8/blob/master/decorators_example.py HTTP/1.1" 200 None
+06/10/2020 08:51:50 PM --- DEBUG --- Starting new HTTPS connection (1): github.com:443
+06/10/2020 08:51:51 PM --- DEBUG --- https://github.com:443 "GET /MachineLearningIsEasy/python_lesson_8/blob/master/decorators_example.py HTTP/1.1" 200 None
+06/10/2020 08:52:28 PM --- DEBUG --- Starting new HTTPS connection (1): github.com:443
+06/10/2020 08:52:30 PM --- DEBUG --- https://github.com:443 "GET /MachineLearningIsEasy/python_lesson_8/blob/master/decorators_example.py HTTP/1.1" 200 None
+06/10/2020 08:53:28 PM --- DEBUG --- Starting new HTTPS connection (1): github.com:443
+06/10/2020 08:53:29 PM --- DEBUG --- https://github.com:443 "GET /MachineLearningIsEasy/python_lesson_8/blob/master/decorators_example.py HTTP/1.1" 200 None
